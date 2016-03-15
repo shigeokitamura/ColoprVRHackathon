@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{69ED6464-C97D-FF07-7A70-5CF8B99E852F}") = "ColoprVRHackathon", "Assembly-CSharp-firstpass.csproj", "{A6184C9E-F0EE-7975-D4A0-9F348630B470}"
+EndProject
+Project("{69ED6464-C97D-FF07-7A70-5CF8B99E852F}") = "ColoprVRHackathon", "Assembly-CSharp.csproj", "{4456BDAB-9DDC-4BDB-5199-02229394EF85}"
+EndProject
+Project("{69ED6464-C97D-FF07-7A70-5CF8B99E852F}") = "ColoprVRHackathon", "Assembly-CSharp-Editor.csproj", "{C5B50355-4155-5BC2-20D9-7AFEE2E31BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6184C9E-F0EE-7975-D4A0-9F348630B470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6184C9E-F0EE-7975-D4A0-9F348630B470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6184C9E-F0EE-7975-D4A0-9F348630B470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6184C9E-F0EE-7975-D4A0-9F348630B470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4456BDAB-9DDC-4BDB-5199-02229394EF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4456BDAB-9DDC-4BDB-5199-02229394EF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4456BDAB-9DDC-4BDB-5199-02229394EF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4456BDAB-9DDC-4BDB-5199-02229394EF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B50355-4155-5BC2-20D9-7AFEE2E31BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B50355-4155-5BC2-20D9-7AFEE2E31BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B50355-4155-5BC2-20D9-7AFEE2E31BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B50355-4155-5BC2-20D9-7AFEE2E31BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class BlockGenerator : MonoBehaviour {
+	public bool isCursorLocked = true;
+
+	// Use this for initialization
+	void Start () {
+		if (isCursorLocked) {
+			Cursor.visible = false;
+		}
+	}
+
+	// Update is called once per frame
+	void Update () {
+		if (isCursorLocked){
+			Cursor.lockState = CursorLockMode.Locked;
+		}
+			
+		// Show gray block
+
+		// Put blocks
+
+		// Destoroy blocks
+
+		// Select blocks
+
+	}
+}

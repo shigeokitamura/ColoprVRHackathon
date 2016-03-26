@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Script\BlockGenerator.cs" />
+     <Compile Include="Assets\Script\StageGenerator.cs" />
      <Compile Include="Assets\ZRNAssets\PQAssets\Scripts\Boss.cs" />
      <Compile Include="Assets\ZRNAssets\PQAssets\Scripts\ButtonSound.cs" />
      <Compile Include="Assets\ZRNAssets\PQAssets\Scripts\CameraSystem.cs" />

@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: a16eef6c870b442e9a42d5608eed53b2
+folderAsset: yes
+timeCreated: 1434991695
+=======
 guid: c718308e198b24573a829c4050afbd2a
 folderAsset: yes
 timeCreated: 1458966034
+>>>>>>> town
 licenseType: Free
 DefaultImporter:
   userData: 

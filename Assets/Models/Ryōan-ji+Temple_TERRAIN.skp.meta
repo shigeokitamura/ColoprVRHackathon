@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 3cbe2a36ecc1a460a85941df63f314b4
+timeCreated: 1458977984
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 22fe28a8deab9155777228901b422959
+  longitude: 135.71786100000733
+  latitude: 35.03406200082005
+  northCorrection: 0.4121978053681232
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -19.707563, y: 59.40035, z: -2.676219}
+      lookAt: {x: 117.270966, y: -62.524387, z: 164.22467}
+      up: {x: 0.31194595, y: 0.8707594, z: 0.38008916}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Google Earth Terrain
+    100004: Group 10
+    100006: Group 12
+    100008: Group 14
+    100010: Group 16
+    100012: Group 18
+    100014: Group 20
+    100016: Group 22
+    100018: Group 24
+    100020: Group 26
+    100022: Group 28
+    100024: Group 5
+    100026: Group 6
+    100028: Group 8
+    100030: //RootNode
+    100032: skp8C41
+    400000: Component#1
+    400002: Google Earth Terrain
+    400004: Group 10
+    400006: Group 12
+    400008: Group 14
+    400010: Group 16
+    400012: Group 18
+    400014: Group 20
+    400016: Group 22
+    400018: Group 24
+    400020: Group 26
+    400022: Group 28
+    400024: Group 5
+    400026: Group 6
+    400028: Group 8
+    400030: //RootNode
+    400032: skp8C41
+    2300000: Component#1
+    2300002: Google Earth Terrain
+    2300004: Group 10
+    2300006: Group 12
+    2300008: Group 14
+    2300010: Group 16
+    2300012: Group 18
+    2300014: Group 20
+    2300016: Group 22
+    2300018: Group 24
+    2300020: Group 26
+    2300022: Group 28
+    2300024: Group 6
+    2300026: Group 8
+    2300028: skp8C41
+    3300000: Component#1
+    3300002: Google Earth Terrain
+    3300004: Group 10
+    3300006: Group 12
+    3300008: Group 14
+    3300010: Group 16
+    3300012: Group 18
+    3300014: Group 20
+    3300016: Group 22
+    3300018: Group 24
+    3300020: Group 26
+    3300022: Group 28
+    3300024: Group 6
+    3300026: Group 8
+    3300028: skp8C41
+    4300000: Mesh Google Earth Terrain
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh Group 10
+    4300008: Mesh Group 12
+    4300010: Mesh Group 14
+    4300012: Mesh Group 16
+    4300014: Mesh Group 18
+    4300016: Mesh Group 20
+    4300018: Mesh Group 22
+    4300020: Mesh Group 24
+    4300022: Mesh Group 26
+    4300024: Mesh Group 28
+    4300026: Mesh skp8C41
+    4300028: Mesh Component#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
